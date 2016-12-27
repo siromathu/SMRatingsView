@@ -25,6 +25,7 @@ A simple initialization gives you
 
     1. Default 5 stars
     2. Tap gesture and Pan gesture
-    3. Default selected and deselected image from unicode
+    3. Default deselected image from unicode (U+2606)
+    4. Default selected image from unicode (U+2B50)
     
 It can be customized to show custom images, number of stars to be shown and style of selection.
