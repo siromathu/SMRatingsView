@@ -29,3 +29,8 @@ A simple initialization gives you
     4. Default selected image from unicode (U+2B50)
     
 It can be customized to show custom images, number of stars to be shown and style of selection.
+
+
+# Author
+
+[Siroson Mathuranga Sivarajah](https://tryswift.wordpress.com)
